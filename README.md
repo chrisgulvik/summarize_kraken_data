@@ -3,6 +3,8 @@
 
 * * *
 
+![alt tag](https://github.com/chrisgulvik/images/raw/master/kraken.jpg)
+
 #### Script:
 * **summarize_kraken-report.sh** -- generates a TSV summary of unclassified, the 3 most abundant genera, and 3 most abundant species from a kraken-report file. (requires GNU sed)
 
